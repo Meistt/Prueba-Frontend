@@ -40,7 +40,6 @@ width: 100%;
 .derecha{
   width: 100%;
   margin: auto;
-  /* margin-right: 5em; */
   box-sizing: border-box;
   flex-direction: column;
 }
@@ -182,8 +181,5 @@ h1{
   background-color: rgb(219, 216, 216);
   border-radius: 10px;
 }
-
 }
-
-/* ---------------------------- */
 
